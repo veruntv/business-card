@@ -24,10 +24,6 @@ body {
     border-top: 3px solid #e07a5f
 }
 
-.border-blue {
-    border: 1px dotted blue;
-}
-
 p:hover, h3:hover {
     background: #be95c4;
     border-radius: 6px;
