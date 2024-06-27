@@ -35,7 +35,8 @@ a {
 }
 
 h4 {
-     margin: 3px;
+    margin: 3px;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .btn {
